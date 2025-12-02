@@ -20,19 +20,6 @@
 
 ### 正开发
 
-**脉冲星/AiraPulsar** - 用于固定翼无人机/航模的超视距通用网络飞行控制套件
-
-包含以下子项目:  
- - **PyVGL** - 基于 SDL, 面向对象设计的矢量图形绘制层  
- - **秋水/MarkSight** - 基于 OpenCV 的在线持久化视觉目标标注实现  
- - **MavBridge** - AriaPulsar 的 MavLink 兼容层  
-
-> 尚处于原型开发状态  
-
-<a href="https://gitea.imwangzhiyu.xyz/ajax/AiraPulsar" style="pointer-events: none; cursor: default;">
-  <img src="https://img.shields.io/badge/Gitea-查看项目-5F5F5F?style=for-the-badge&logo=gitea&logoColor=white" alt="查看项目" />
-</a>
-
 **潜进/HeurAMS** - 启发式辅助记忆调度器
 
 > 为问答, 记忆, 理解型知识设计的开放源代码辅助记忆软件, 提供动态规划的优化记忆方案  
@@ -43,6 +30,19 @@
  - **HeurRepo**: 文档源实现  
 
 <a href="https://gitea.imwangzhiyu.xyz/ajax/HeurAMS" style="pointer-events: none; cursor: default;">
+  <img src="https://img.shields.io/badge/Gitea-查看项目-5F5F5F?style=for-the-badge&logo=gitea&logoColor=white" alt="查看项目" />
+</a>
+
+
+**AiraPulsar** - 用于固定翼无人机/航模的超视距通用网络飞行控制套件
+
+包含以下子项目:  
+ - **PyVGL** - 基于 SDL, 面向对象设计的矢量图形绘制层  
+ - **MavBridge** - AriaPulsar 的 MavLink 兼容层  
+
+> 尚处于原型开发状态  
+
+<a href="https://gitea.imwangzhiyu.xyz/ajax/AiraPulsar" style="pointer-events: none; cursor: default;">
   <img src="https://img.shields.io/badge/Gitea-查看项目-5F5F5F?style=for-the-badge&logo=gitea&logoColor=white" alt="查看项目" />
 </a>
 

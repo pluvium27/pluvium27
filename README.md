@@ -24,3 +24,15 @@
   <img src="https://img.shields.io/badge/SQLite-0F3A5F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
+
+### Git Platforms
+<p align="left">
+<a href="https://github.com/pluvium27" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" /></a>
+<a href="https://invent.kde.org/pluv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/KDE_Invent-1D99F3?style=for-the-badge&logo=kde&logoColor=white" alt="KDE Invent" /></a>
+<a href="https://gitee.com/pluv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee" /></a>
+<a href="https://git.pluv27.top/pluv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/git.pluv27.top-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="git.pluv27.top" /></a>
+<!--<a href="https://github.com/pluvium27" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>-->
+</p>
+<blockquote>PRs can be submitted on any platform. Accepted PRs are automatically synced to <code>git.pluv27.top</code> and then to all platforms. No extra account registration required :)</blockquote>
+
+Consider taking a look at HeurAMS if you like spaced repetition :)

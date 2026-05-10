@@ -33,6 +33,6 @@
 <a href="https://git.pluv27.top/pluv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/git.pluv27.top-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="git.pluv27.top" /></a>
 <!--<a href="https://github.com/pluvium27" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>-->
 </p>
-<blockquote>PRs can be submitted on any platform. Accepted PRs are automatically synced to <code>git.pluv27.top</code> and then to all platforms. No extra account registration required :)</blockquote>
+<blockquote>PRs can be submitted on any platform, accepted PRs are automatically synced to <code>git.pluv27.top</code> and then to all platforms.<br/>No extra account registration or any other operations required. :)</blockquote>
 
 Consider taking a look at HeurAMS if you like spaced repetition :)

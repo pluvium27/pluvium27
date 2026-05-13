@@ -26,8 +26,6 @@
   <img src="https://img.shields.io/badge/SQLite-0F3A5F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-> Each has been used in production or serious side work.
-
 ### Git Platforms
 <p align="left">
 <a href="https://github.com/pluvium27" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" /></a>

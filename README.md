@@ -31,6 +31,7 @@
 <a href="https://github.com/pluvium27" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" /></a>
 <a href="https://invent.kde.org/pluv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/KDE_Invent-1D99F3?style=for-the-badge&logo=kde&logoColor=white" alt="KDE Invent" /></a>
 <a href="https://gitee.com/pluv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee" /></a>
+<a href="https://codeberg.org/pluv?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/codeberg-2684cf?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg" /></a>
 <a href="https://git.pluv27.top/pluv?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/git.pluv27.top-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="git.pluv27.top" /></a>
 <!--<a href="https://github.com/pluvium27" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>-->
 </p>

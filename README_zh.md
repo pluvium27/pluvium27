@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
   <img src="https://img.shields.io/badge/Systemd-3B9E5D?style=for-the-badge&logo=gnubash&logoColor=white" alt="systemd" />
   <img src="https://img.shields.io/badge/OpenRC-075CAC?style=for-the-badge&logo=gnubash&logoColor=white" alt="OpenRC" />
-    <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
   <img src="https://img.shields.io/badge/CentOS_6.x-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS 6.x" /><br>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Devuan-A81D33?style=for-the-badge&logo=devuan&logoColor=white" alt="Devuan" />
@@ -50,19 +50,21 @@
 </p>
 
 #### 网络工具与调试
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Charles-2C7ED1?style=for-the-badge&logo=charles&logoColor=white" alt="Charles" />
-<img src="https://img.shields.io/badge/nmap-4B8DFF?style=for-the-badge&logo=gnubash&logoColor=white" alt="nmap" />
-<img src="https://img.shields.io/badge/stunnel-0066A1?style=for-the-badge&logo=gnubash&logoColor=white" alt="stunnel" />
-<img src="https://img.shields.io/badge/nc-004488?style=for-the-badge&logo=gnubash&logoColor=white" alt="nc" />
-<img src="https://img.shields.io/badge/frp-FF6600?style=for-the-badge&logo=go&logoColor=white" alt="frp" />
-<img src="https://img.shields.io/badge/tcpdump-FF9900?style=for-the-badge&logo=gnubash&logoColor=white" alt="tcpdump" /><br>
-<img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
-<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=gnubash&logoColor=white" alt="OpenSSL" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-<img src="https://img.shields.io/badge/Caddy-1F8C44?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" />
-<img src="https://img.shields.io/badge/mitmproxy-00AA00?style=for-the-badge&logo=gnubash&logoColor=white" alt="mitmproxy" />
-<img src="https://img.shields.io/badge/OpenSSH-222222?style=for-the-badge&logo=gnubash&logoColor=white" alt="OpenSSH" />
+<p align="left">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+    <img src="https://img.shields.io/badge/Charles-2C7ED1?style=for-the-badge&logo=charles&logoColor=white" alt="Charles" />
+    <img src="https://img.shields.io/badge/nmap-4B8DFF?style=for-the-badge&logo=gnubash&logoColor=white" alt="nmap" />
+    <img src="https://img.shields.io/badge/stunnel-0066A1?style=for-the-badge&logo=gnubash&logoColor=white" alt="stunnel" />
+    <img src="https://img.shields.io/badge/nc-004488?style=for-the-badge&logo=gnubash&logoColor=white" alt="nc" />
+    <img src="https://img.shields.io/badge/frp-FF6600?style=for-the-badge&logo=go&logoColor=white" alt="frp" />
+    <img src="https://img.shields.io/badge/tcpdump-FF9900?style=for-the-badge&logo=gnubash&logoColor=white" alt="tcpdump" /><br>
+    <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+    <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=gnubash&logoColor=white" alt="OpenSSL" />
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+    <img src="https://img.shields.io/badge/Caddy-1F8C44?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" />
+    <img src="https://img.shields.io/badge/mitmproxy-00AA00?style=for-the-badge&logo=gnubash&logoColor=white" alt="mitmproxy" />
+    <img src="https://img.shields.io/badge/OpenSSH-222222?style=for-the-badge&logo=gnubash&logoColor=white" alt="OpenSSH" />
+</p>
 
 #### 平台与包注册表
 <p align="left">
@@ -89,8 +91,8 @@
 
 ### 主要项目
 <p align="left">
-<a href="https://pluv27.top/foss/heurams/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HeurAMS-545f70?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgNTU0LjQgNTU0LjQiIHZlcnNpb249IjEuMSI+CiAgPGRlZnM+CiAgICA8c3R5bGUgdHlwZT0idGV4dC9jc3MiPip7c3Ryb2tlLWxpbmVqb2luOiByb3VuZDsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHR9PC9zdHlsZT4KICA8L2RlZnM+CiAgPHRpdGxlPkhldXJBTVMgTW9ub2Nocm9tZSBMb2dvIC0gTGlnaHQ8L3RpdGxlPgogIDxkZXNjPkxpZ2h0IG1vbm9jaHJvbWUgbG9nbyBvZiB0aGUgSGV1ckFNUyBQcm9qZWN0PC9kZXNjPgogIDxnIGlkPSJmaWd1cmVfMSI+CiAgICA8ZyBpZD0icGF0Y2hfMSI+CiAgICAgIDxwYXRoIGQ9Ik0gMCA1NTQuNCBMIDU1NC40IDU1NC40IEwgNTU0LjQgMCBMIDAgMCBMIDAgNTU0LjQgeiIgc3R5bGU9ImZpbGw6IG5vbmUiLz4KICAgIDwvZz4KICAgIDxnIGlkPSJheGVzXzEiPgogICAgICA8ZyBpZD0icGF0Y2hfMiI+CiAgICAgICAgPHBhdGggZD0iTSA2Ni41MjggNDg3Ljg3MiBMIDE5OS41ODQgNDg3Ljg3MiBMIDE5OS41ODQgMzU0LjgxNiBMIDY2LjUyOCAzNTQuODE2IHoiIGNsaXAtcGF0aD0idXJsKCNwNGRhODc2YzdhMCkiIHN0eWxlPSJmaWxsOiAjZmZmZmZmOyBzdHJva2U6ICNmZmZmZmY7IHN0cm9rZS1saW5lam9pbjogbWl0ZXIiLz4KICAgICAgPC9nPgogICAgICA8ZyBpZD0icGF0Y2hfMyI+CiAgICAgICAgPHBhdGggZD0iTSAxOTkuNTg0IDM1NC44MTYgTCA0ODcuODcyIDM1NC44MTYgTCA0ODcuODcyIDY2LjUyOCBMIDE5OS41ODQgNjYuNTI4IHoiIGNsaXAtcGF0aD0idXJsKCNwNGRhODc2YzdhMCkiIHN0eWxlPSJmaWxsOiAjZmZmZmZmOyBzdHJva2U6ICNmZmZmZmY7IHN0cm9rZS1saW5lam9pbjogbWl0ZXIiLz4KICAgICAgPC9nPgogICAgPC9nPgogIDwvZz4KICA8ZGVmcz4KICAgIDxjbGlwUGF0aCBpZD0icDRkYTg3NmM3YTAiPgogICAgICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNTU0LjQiIGhlaWdodD0iNTU0LjQiLz4KICAgIDwvY2xpcFBhdGg+CiAgPC9kZWZzPgo8L3N2Zz4K" alt="HeurAMS" /></a>
-<a href="https://pluv27.top/foss/afi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AFI-545f70?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzc0NjkxODI4MjkzIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjE5MjUyIiBkYXRhLXNwbS1hbmNob3ItaWQ9ImEzMTN4LmNvbGxlY3Rpb25zX2RldGFpbC4wLmkzLjQwMzczYTgxcWVZNXNnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PHBhdGggZD0iTTgxMS40IDQxOC43Qzc2NS42IDI5Ny45IDY0OC45IDIxMiA1MTIuMiAyMTJTMjU4LjggMjk3LjggMjEzIDQxOC42QzEyNy4zIDQ0MS4xIDY0IDUxOS4xIDY0IDYxMmMwIDExMC41IDg5LjUgMjAwIDE5OS45IDIwMGg0OTYuMkM4NzAuNSA4MTIgOTYwIDcyMi41IDk2MCA2MTJjMC05Mi43LTYzLjEtMTcwLjctMTQ4LjYtMTkzLjN6IG0zNi4zIDI4MWMtMjMuNCAyMy40LTU0LjUgMzYuMy04Ny42IDM2LjNIMjYzLjljLTMzLjEgMC02NC4yLTEyLjktODcuNi0zNi4zLTIzLjQtMjMuNC0zNi4zLTU0LjYtMzYuMy04Ny43IDAtMjggOS4xLTU0LjMgMjYuMi03Ni4zIDE2LjctMjEuMyA0MC4yLTM2LjggNjYuMS00My43bDM3LjktOS45IDEzLjktMzYuNmM4LjYtMjIuOCAyMC42LTQ0LjEgMzUuNy02My40IDE0LjktMTkuMiAzMi42LTM1LjkgNTIuNC00OS45IDQxLjEtMjguOSA4OS41LTQ0LjIgMTQwLTQ0LjJzOTguOSAxNS4zIDE0MCA0NC4yYzE5LjkgMTQgMzcuNSAzMC44IDUyLjQgNDkuOSAxNS4xIDE5LjMgMjcuMSA0MC43IDM1LjcgNjMuNGwxMy44IDM2LjUgMzcuOCAxMGM1NC4zIDE0LjUgOTIuMSA2My44IDkyLjEgMTIwIDAgMzMuMS0xMi45IDY0LjMtMzYuMyA4Ny43eiIgcC1pZD0iMTkyNTMiIGZpbGw9IiNmZmZmZmYiPjwvcGF0aD48L3N2Zz4K" alt="AFI" /></a>
+    <a href="https://pluv27.top/foss/heurams/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HeurAMS-545f70?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgNTU0LjQgNTU0LjQiIHZlcnNpb249IjEuMSI+CiAgPGRlZnM+CiAgICA8c3R5bGUgdHlwZT0idGV4dC9jc3MiPip7c3Ryb2tlLWxpbmVqb2luOiByb3VuZDsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHR9PC9zdHlsZT4KICA8L2RlZnM+CiAgPHRpdGxlPkhldXJBTVMgTW9ub2Nocm9tZSBMb2dvIC0gTGlnaHQ8L3RpdGxlPgogIDxkZXNjPkxpZ2h0IG1vbm9jaHJvbWUgbG9nbyBvZiB0aGUgSGV1ckFNUyBQcm9qZWN0PC9kZXNjPgogIDxnIGlkPSJmaWd1cmVfMSI+CiAgICA8ZyBpZD0icGF0Y2hfMSI+CiAgICAgIDxwYXRoIGQ9Ik0gMCA1NTQuNCBMIDU1NC40IDU1NC40IEwgNTU0LjQgMCBMIDAgMCBMIDAgNTU0LjQgeiIgc3R5bGU9ImZpbGw6IG5vbmUiLz4KICAgIDwvZz4KICAgIDxnIGlkPSJheGVzXzEiPgogICAgICA8ZyBpZD0icGF0Y2hfMiI+CiAgICAgICAgPHBhdGggZD0iTSA2Ni41MjggNDg3Ljg3MiBMIDE5OS41ODQgNDg3Ljg3MiBMIDE5OS41ODQgMzU0LjgxNiBMIDY2LjUyOCAzNTQuODE2IHoiIGNsaXAtcGF0aD0idXJsKCNwNGRhODc2YzdhMCkiIHN0eWxlPSJmaWxsOiAjZmZmZmZmOyBzdHJva2U6ICNmZmZmZmY7IHN0cm9rZS1saW5lam9pbjogbWl0ZXIiLz4KICAgICAgPC9nPgogICAgICA8ZyBpZD0icGF0Y2hfMyI+CiAgICAgICAgPHBhdGggZD0iTSAxOTkuNTg0IDM1NC44MTYgTCA0ODcuODcyIDM1NC44MTYgTCA0ODcuODcyIDY2LjUyOCBMIDE5OS41ODQgNjYuNTI4IHoiIGNsaXAtcGF0aD0idXJsKCNwNGRhODc2YzdhMCkiIHN0eWxlPSJmaWxsOiAjZmZmZmZmOyBzdHJva2U6ICNmZmZmZmY7IHN0cm9rZS1saW5lam9pbjogbWl0ZXIiLz4KICAgICAgPC9nPgogICAgPC9nPgogIDwvZz4KICA8ZGVmcz4KICAgIDxjbGlwUGF0aCBpZD0icDRkYTg3NmM3YTAiPgogICAgICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNTU0LjQiIGhlaWdodD0iNTU0LjQiLz4KICAgIDwvY2xpcFBhdGg+CiAgPC9kZWZzPgo8L3N2Zz4K" alt="HeurAMS" /></a>
+    <a href="https://pluv27.top/foss/afi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AFI-545f70?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzc0NjkxODI4MjkzIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjE5MjUyIiBkYXRhLXNwbS1hbmNob3ItaWQ9ImEzMTN4LmNvbGxlY3Rpb25zX2RldGFpbC4wLmkzLjQwMzczYTgxcWVZNXNnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PHBhdGggZD0iTTgxMS40IDQxOC43Qzc2NS42IDI5Ny45IDY0OC45IDIxMiA1MTIuMiAyMTJTMjU4LjggMjk3LjggMjEzIDQxOC42QzEyNy4zIDQ0MS4xIDY0IDUxOS4xIDY0IDYxMmMwIDExMC41IDg5LjUgMjAwIDE5OS45IDIwMGg0OTYuMkM4NzAuNSA4MTIgOTYwIDcyMi41IDk2MCA2MTJjMC05Mi43LTYzLjEtMTcwLjctMTQ4LjYtMTkzLjN6IG0zNi4zIDI4MWMtMjMuNCAyMy40LTU0LjUgMzYuMy04Ny42IDM2LjNIMjYzLjljLTMzLjEgMC02NC4yLTEyLjktODcuNi0zNi4zLTIzLjQtMjMuNC0zNi4zLTU0LjYtMzYuMy04Ny43IDAtMjggOS4xLTU0LjMgMjYuMi03Ni4zIDE2LjctMjEuMyA0MC4yLTM2LjggNjYuMS00My43bDM3LjktOS45IDEzLjktMzYuNmM4LjYtMjIuOCAyMC42LTQ0LjEgMzUuNy02My40IDE0LjktMTkuMiAzMi42LTM1LjkgNTIuNC00OS45IDQxLjEtMjguOSA4OS41LTQ0LjIgMTQwLTQ0LjJzOTguOSAxNS4zIDE0MCA0NC4yYzE5LjkgMTQgMzcuNSAzMC44IDUyLjQgNDkuOSAxNS4xIDE5LjMgMjcuMSA0MC43IDM1LjcgNjMuNGwxMy44IDM2LjUgMzcuOCAxMGM1NC4zIDE0LjUgOTIuMSA2My44IDkyLjEgMTIwIDAgMzMuMS0xMi45IDY0LjMtMzYuMyA4Ny43eiIgcC1pZD0iMTkyNTMiIGZpbGw9IiNmZmZmZmYiPjwvcGF0aD48L3N2Zz4K" alt="AFI" /></a>
 </p>
 
 <blockquote>拉取请求可在任意平台提交, 通过的拉取请求将自动同步到 <code>git.pluv27.top</code> 和所有平台.<br/>不需要另外注册账号 :)</blockquote>

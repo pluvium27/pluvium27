@@ -54,6 +54,7 @@
 <img src="https://img.shields.io/badge/Charles-2C7ED1?style=for-the-badge&logo=charles&logoColor=white" alt="Charles" />
 <img src="https://img.shields.io/badge/nmap-4B8DFF?style=for-the-badge&logo=gnubash&logoColor=white" alt="nmap" />
 <img src="https://img.shields.io/badge/stunnel-0066A1?style=for-the-badge&logo=gnubash&logoColor=white" alt="stunnel" />
+<img src="https://img.shields.io/badge/nc-004488?style=for-the-badge&logo=gnubash&logoColor=white" alt="nc" />
 <img src="https://img.shields.io/badge/frp-FF6600?style=for-the-badge&logo=go&logoColor=white" alt="frp" />
 <img src="https://img.shields.io/badge/tcpdump-FF9900?style=for-the-badge&logo=gnubash&logoColor=white" alt="tcpdump" /><br>
 <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />

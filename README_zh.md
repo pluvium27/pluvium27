@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white" alt="Doxygen" />
 </p>
 
-#### 系统维护与程序
+#### 系统管理与维护
 <p align="left">
   <img src="https://img.shields.io/badge/xonsh-285F4F?style=for-the-badge&logo=shell&logoColor=white" alt="xonsh" />
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
@@ -49,7 +49,21 @@
   <img src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artixlinux&logoColor=white" alt="Artix Linux" />
 </p>
 
-### 平台与包注册表
+#### 网络工具与调试
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Charles-2C7ED1?style=for-the-badge&logo=charles&logoColor=white" alt="Charles" />
+<img src="https://img.shields.io/badge/nmap-4B8DFF?style=for-the-badge&logo=gnubash&logoColor=white" alt="nmap" />
+<img src="https://img.shields.io/badge/stunnel-0066A1?style=for-the-badge&logo=gnubash&logoColor=white" alt="stunnel" />
+<img src="https://img.shields.io/badge/frp-FF6600?style=for-the-badge&logo=go&logoColor=white" alt="frp" />
+<img src="https://img.shields.io/badge/tcpdump-FF9900?style=for-the-badge&logo=gnubash&logoColor=white" alt="tcpdump" /><br>
+<img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=gnubash&logoColor=white" alt="OpenSSL" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/Caddy-1F8C44?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" />
+<img src="https://img.shields.io/badge/mitmproxy-00AA00?style=for-the-badge&logo=gnubash&logoColor=white" alt="mitmproxy" />
+<img src="https://img.shields.io/badge/OpenSSH-222222?style=for-the-badge&logo=gnubash&logoColor=white" alt="OpenSSH" />
+
+#### 平台与包注册表
 <p align="left">
   <a href="https://github.com/pluvium27" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

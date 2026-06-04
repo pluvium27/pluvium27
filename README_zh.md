@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white" alt="Doxygen" />
 </p>
 
-#### 系统维护与实用程序
+#### 系统维护与程序
 <p align="left">
   <img src="https://img.shields.io/badge/xonsh-285F4F?style=for-the-badge&logo=shell&logoColor=white" alt="xonsh" />
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />

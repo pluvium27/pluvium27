@@ -41,7 +41,23 @@
   <img src="https://img.shields.io/badge/libgpiod-4A90E2?style=for-the-badge&logo=gnubash&logoColor=white" alt="libgpiod" />
 </p>
 
-#### System Maintainance
+
+#### System Mantainence
+<p align="left">
+  <img src="https://img.shields.io/badge/xonsh-285F4F?style=for-the-badge&logo=shell&logoColor=white" alt="xonsh" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
+  <img src="https://img.shields.io/badge/Systemd-3B9E5D?style=for-the-badge&logo=gnubash&logoColor=white" alt="systemd" />
+  <img src="https://img.shields.io/badge/OpenRC-075CAC?style=for-the-badge&logo=gnubash&logoColor=white" alt="OpenRC" />
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
+  <img src="https://img.shields.io/badge/CentOS_6.x-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS 6.x" /><br>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Devuan-A81D33?style=for-the-badge&logo=devuan&logoColor=white" alt="Devuan" />
+  <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white" alt="Alpine Linux" />
+  <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" alt="Rocky Linux" />
+  <img src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artixlinux&logoColor=white" alt="Artix Linux" />
+</p>
+
+#### Network Tools & Debugging
 <p align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Charles-2C7ED1?style=for-the-badge&logo=charles&logoColor=white" alt="Charles" />

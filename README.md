@@ -90,3 +90,7 @@
 <blockquote>PRs can be submitted on any platform, accepted PRs are automatically synced to <code>git.pluv27.top</code> and then to all platforms.<br/>No extra account registration or any other operations required :)</blockquote>
 
 Consider taking a look at HeurAMS if you like spaced repetition :)
+
+---
+
+> Pluvia quae et aliis et sibi ipsi felicitatem affert.

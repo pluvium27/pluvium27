@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/OpenSSH-222222?style=for-the-badge&logo=gnubash&logoColor=white" alt="OpenSSH" />
 </p>
 
-### Platforms & Package Registry
+#### Platforms & Package Registries
 <p align="left">
   <a href="https://github.com/pluvium27" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

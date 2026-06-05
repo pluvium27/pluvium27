@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-#### 框架与程序库
+#### 框架, 协议与程序库
 <p align="left">
-  <img src="https://img.shields.io/badge/Qt-2CDE85?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
+  <img src="https://img.shields.io/badge/Qt/QML-2CDE85?style=for-the-badge&logo=qt&logoColor=white" alt="Qt/QML" />
   <img src="https://img.shields.io/badge/Kirigami-0068C6?style=for-the-badge&logo=kde&logoColor=white" alt="Kirigami" />
   <img src="https://img.shields.io/badge/Textual-613583?style=for-the-badge&logo=textual&logoColor=white" alt="Textual" />
   <img src="https://img.shields.io/badge/ArkUI-0A59F7?style=for-the-badge&logo=harmonyos&logoColor=white" alt="ArkUI" />

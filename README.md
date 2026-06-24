@@ -12,7 +12,12 @@
 
 #### Frameworks, Libraries & Protocols
 
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Qt/QML-2CDE85?style=for-the-badge&logo=qt&logoColor=white" alt="Qt/QML" />
+  <img src="https://img.shields.io/badge/Kirigami-0068C6?style=for-the-badge&logo=kde&logoColor=white" alt="Kirigami" />
+  <img src="https://img.shields.io/badge/Textual-613583?style=for-the-badge&logo=textual&logoColor=white" alt="Textual" />
+  <img src="https://img.shields.io/badge/ArkUI-0A59F7?style=for-the-badge&logo=harmonyos&logoColor=white" alt="ArkUI" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /><br/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Deno-222222?style=for-the-badge&logo=deno&logoColor=white" alt="Deno" />

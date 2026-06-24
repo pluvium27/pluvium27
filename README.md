@@ -80,11 +80,13 @@
   <a href="https://git.pluv27.top/pluv?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/git.pluv27.top-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="git.pluv27.top" />
   </a><br>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/JSR-083344?style=for-the-badge&logo=jsr&logoColor=white" alt="JSR" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
   <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" />
   <img src="https://img.shields.io/badge/Quay.io-ED1C24?style=for-the-badge&logo=redhat&logoColor=white" alt="Quay.io" />
+  <img src="https://img.shields.io/badge/crates.io-FC6D26?style=for-the-badge&logo=rust&logoColor=white" alt="crates.io" />
+  <img src="https://img.shields.io/badge/go.dev-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go.dev" />
 </p>
-
 
 ### Primary Projects
 <p align="left">
